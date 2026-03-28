@@ -1,0 +1,8 @@
+{
+    "name": "desert-edge-pressure-washing",
+    "version": "1.0.0",
+    "description": "Desert Edge Pressure Washing - Phoenix AZ Demo Website",
+    "scripts": {
+        "start": "npx serve -s . -l $PORT"
+    }
+}
